@@ -1,0 +1,8 @@
+[package]
+name = "rtorrent"
+version = "0.1.0"
+authors = ["Mark Pashmfouroush <mark@markpash.me>"]
+edition = "2018"
+
+[dependencies]
+xmlrpc = "0.13.1"
